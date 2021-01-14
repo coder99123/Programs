@@ -1,2 +1,2 @@
 # Programs
-I've tried to solve some excercises of the IBM Quantum Challenge.
+I've tried to solve some exercises of the IBM Quantum Challenge.
